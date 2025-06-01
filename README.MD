@@ -2,7 +2,7 @@
 
 A Filament plugin that enables Translation Overrides management in Laravel applications with an elegant admin interface. Supports both multi-tenant and single-tenant applications.
 
-![Translation Overrides Admin Interface](assets/translation-overrides)
+![Translation Overrides Admin Interface](assets/translation-overrides.png)
 
 ## Features
 
