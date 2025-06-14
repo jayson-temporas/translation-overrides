@@ -1,6 +1,6 @@
 {
     "name": "jaysontemporas/translation-overrides",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "library",
     "require-dev": {
         "php": "^8.3",

@@ -118,4 +118,9 @@ class TranslationOverrideResource extends Resource
     {
         return config('translation-overrides.tenant_id_column', 'tenant_id');
     }
+
+    public static function getCluster(): ?string
+    {
+        return config('translation-overrides.cluster', null);
+    }
 }

@@ -3,6 +3,8 @@
 return [
     // Cache duration in seconds
     'cache_duration' => 21600, // 6 hours
+
+    'cluster' => null,
     
     // Filament navigation settings
     'navigation' => [
